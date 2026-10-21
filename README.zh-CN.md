@@ -76,11 +76,63 @@ Wan 3.0 Video · 文生视频 · 720p · 16:9 · 4s
 
 在 Beatra 上生成 · 任务 task_mcp_dbace868ff0952ccc9a70df10b209a5438f5de89
 
+### 3. 雾气竹林里向前推移
+
+一段雾气竹林里的向前推移，展示 Wan 3.0 Video 让镜头沿湿石板路前进。
+
+<p align="center"><img src="assets/w15-preview.webp" width="800" alt="湿石板路穿过高竹和薄雾，镜头向前移动。由 Beatra AI 生成。"></p>
+
+[▶ 观看完整视频（MP4）](assets/w15.mp4)
+
+*湿石板路穿过高竹和薄雾，镜头向前移动。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Wan 3.0 Video 做一段黎明的雾气竹林：湿石板路上，镜头慢慢向前。不要人，也不要文字。
+```
+
+提示词：
+
+```text
+Cinematic morning in a fictional bamboo grove. Dense tall bamboo, pale mist drifting between the stalks, a wet stone path, slow steady dolly forward along the path. Soft dawn light, no people, no readable text, no logos, no watermark. Subtle ambient sound of dripping water and distant birds.
+```
+
+Wan 3.0 Video · 文生视频 · 720p · 16:9 · 5s
+
+在 Beatra 上生成 · 任务 task_mcp_0b83031c5911be94eed4408160a82d4636fde04a
+
+### 4. 夜摊铁锅的低角度
+
+夜摊上一口铁锅的低角度镜头，是一段 Wan 3.0 Video 的片子，画面里有蒸汽和火焰。
+
+<p align="center"><img src="assets/w16-preview.webp" width="800" alt="低角度的铁锅架在燃气火上，蒸汽升起，灯笼照着。由 Beatra AI 生成。"></p>
+
+[▶ 观看完整视频（MP4）](assets/w16.mp4)
+
+*低角度的铁锅架在燃气火上，蒸汽升起，灯笼照着。由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Wan 3.0 Video 做一段夜摊的手持低角度：一口铁锅架在燃气火上，蒸汽升起，灯笼的光。
+```
+
+提示词：
+
+```text
+Handheld low-angle shot at a fictional night stall. A wide iron wok sits over a gas flame, thick steam and oil mist rising toward the camera, warm lantern light, wooden stall counter. No people, no faces, no hands, no readable signs, no letters, no logos, no watermark. Soundtrack of sizzle and soft night-market murmur, no speech.
+```
+
+Wan 3.0 Video · 文生视频 · 720p · 16:9 · 5s
+
+在 Beatra 上生成 · 任务 task_mcp_f7de08036b16d5059c82dc3bcebfcbd51fdcbb0c
+
 <a id="product-i2v"></a>
 
 ## 商品图生视频
 
-### 3. 推向 Siltjar 酱瓶
+### 5. 推向 Siltjar 酱瓶
 
 缓慢推向酱瓶，展示 Wan 3.0 Video 用一张开场照片把 SILTJAR 瓶子动起来。
 
@@ -106,7 +158,7 @@ Wan 3.0 Video · 图生视频 · 720p · 1:1 · 4s
 
 在 Beatra 上生成 · 任务 task_mcp_ef9245dcc190be76719d6d88778ad26b9105f91a
 
-### 4. 绕着黄铜蜡烛转
+### 6. 绕着黄铜蜡烛转
 
 镜头绕着黄铜蜡烛罐转，展示 Wan 3.0 Video 把一张商品照片动起来。
 
@@ -132,11 +184,63 @@ Wan 3.0 Video · 图生视频 · 720p · 4:3 · 4s
 
 在 Beatra 上生成 · 任务 task_mcp_988a9e1161b17e8d923dfe7bdf547e0d26ea97e3
 
+### 7. 推向 SOLUM 精华瓶
+
+缓慢推向 SOLUM 瓶子，展示 Wan 3.0 Video 用一张开场照片把瓶子动起来。
+
+<p align="center"><img src="assets/w17-preview.webp" width="800" alt="镜头慢慢朝 SOLUM 瓶子推近，瓶子周围的水有涟漪。开头的照片也是由 Beatra AI 生成。"></p>
+
+[▶ 观看完整视频（MP4）](assets/w17.mp4)
+
+*镜头慢慢朝 SOLUM 瓶子推近，瓶子周围的水有涟漪。开头的照片也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Wan 3.0 Video 把这张 SOLUM 精华瓶照片做成缓慢推进。瓶子、白色泵头和 SOLUM 标签保持不动，周围的水可以有涟漪。
+```
+
+提示词：
+
+```text
+Slow push-in on the frosted-glass serum bottle. The bottle, white pump, and SOLUM label stay still and keep their shape. Gentle ripples move in the water around the base. Soft beauty light. No new text, no hands, no logos.
+```
+
+Wan 3.0 Video · 图生视频 · 720p · 16:9 · 5s
+
+在 Beatra 上生成 · 任务 task_mcp_747899488daf1c608e01a3103a86f767cebd0a01, task_mcp_894f444a5ed34962098546e9a34cfc0b801d9b76
+
+### 8. 绕着鼠尾草绿耳机转
+
+缓慢绕着耳机转，展示 Wan 3.0 Video 用一张开场照片把鼠尾草绿耳机动起来。
+
+<p align="center"><img src="assets/w18-preview.webp" width="800" alt="镜头绕着石灰石上的鼠尾草绿耳机转。开头的照片也是由 Beatra AI 生成。"></p>
+
+[▶ 观看完整视频（MP4）](assets/w18.mp4)
+
+*镜头绕着石灰石上的鼠尾草绿耳机转。开头的照片也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Wan 3.0 Video 把这张鼠尾草绿耳机照片做成缓慢环绕。耳罩、头带和绒面耳垫的形状保持不变。
+```
+
+提示词：
+
+```text
+Slow gentle orbit around the sage over-ear headphones on the limestone slab. The cups, headband, and suede pads keep their shape. Soft studio light. No text, no people, no hands, no logos.
+```
+
+Wan 3.0 Video · 图生视频 · 720p · 16:9 · 5s
+
+在 Beatra 上生成 · 任务 task_mcp_30b180b44416554aedc800ae7ea54ded5091b344, task_mcp_769d854eae895afbf4a0127ff02c2c5984a1df29
+
 <a id="first-last-frames"></a>
 
 ## 首尾帧过渡
 
-### 5. 托特包从室内到雨门口
+### 9. 托特包从室内到雨门口
 
 同一只托特包从明亮的房间移到下雨的门口，展示 Wan 3.0 Video 把两帧接起来。
 
@@ -166,7 +270,7 @@ Wan 3.0 Video · 首尾帧生视频 · 720p · 3:4 · 4s
 
 在 Beatra 上生成 · 任务 task_mcp_0a09065cc402d1095c39f1dd2e55c27c9d2c992b
 
-### 6. 狐狸走到面包店前
+### 10. 狐狸走到面包店前
 
 穿黄色外套的狐狸从蘑菇走到面包店，展示 Wan 3.0 Video 把两帧接起来。
 
@@ -196,11 +300,37 @@ Wan 3.0 Video · 首尾帧生视频 · 720p · 1:1 · 4s
 
 在 Beatra 上生成 · 任务 task_mcp_fff02ba9a872ad57f1ce5244c80e73fa59f4aa0a
 
+### 11. 夏日正午的小巷到傍晚
+
+同一条小巷从夏日正午到傍晚，展示 Wan 3.0 Video 把两帧接起来。成片结尾的雪比用作尾帧的傍晚照片少。
+
+<p align="center"><img src="assets/w19-preview.webp" width="800" alt="小巷从明亮的夏日正午到傍晚，窗户和路灯亮了。成片结尾的雪比用作尾帧的傍晚照片少。首帧和尾帧也是由 Beatra AI 生成。"></p>
+
+[▶ 观看完整视频（MP4）](assets/w19.mp4)
+
+*小巷从明亮的夏日正午到傍晚，窗户和路灯亮了。成片结尾的雪比用作尾帧的傍晚照片少。首帧和尾帧也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Wan 3.0 Video，第一帧用夏日正午的小巷，最后一帧用傍晚的小巷。建筑、木窗板、门和自行车留在原处。
+```
+
+提示词：
+
+```text
+The cobblestone lane changes from bright summer noon to a snowy evening. Buildings, shutters, doors, and the bicycle stay in place. Light snow begins to fall. No people, no cars, no readable text, no logos.
+```
+
+Wan 3.0 Video · 首尾帧生视频 · 720p · 16:9 · 5s
+
+在 Beatra 上生成 · 任务 task_mcp_7b7da46f37b24ab2619dc76ac34abddffdd2abc7, task_mcp_a36f684023317a21916a2df525593b22e69b611c, task_mcp_dffd403279fad7006f39d5e1889472473ef09da6
+
 <a id="video-edit"></a>
 
 ## 视频编辑与重绘
 
-### 7. 桌面换成绿色瓷砖
+### 12. 桌面换成绿色瓷砖
 
 橡木桌变成绿色瓷砖，蜡烛还在，展示 Wan 3.0 Video 编辑一段片子。
 
@@ -230,7 +360,7 @@ Wan 3.0 Video · 视频编辑 · 720p · 16:9 · 5s
 
 在 Beatra 上生成 · 任务 task_mcp_74e663e18496ceda5d0af892f727d96a169765f5
 
-### 8. 同一段蜡烛改成水粉
+### 13. 同一段蜡烛改成水粉
 
 同一段蜡烛被改画成水粉，展示 Wan 3.0 Video 给一段视频换风格。
 
@@ -260,11 +390,41 @@ Wan 3.0 Video · 视频编辑 · 720p · 16:9 · 5s
 
 在 Beatra 上生成 · 任务 task_mcp_f128b0fbaaeeb9efa301aa9a8fa3992f03b13409
 
+### 14. 竹林小路改成粘土定格
+
+竹林小路被重绘成粘土定格动画的质感，展示 Wan 3.0 Video 给这段片子换风格。
+
+<p align="center"><img src="assets/w20-frames.webp" width="800" alt="左是原片的一帧，竹林和湿石板路。右是成片的一帧，同一段被重绘成粘土定格动画的质感。被编辑的原片也是由 Beatra AI 生成。"></p>
+
+*左是原片的一帧，竹林和湿石板路。右是成片的一帧，同一段被重绘成粘土定格动画的质感。被编辑的原片也是由 Beatra AI 生成。*
+
+<p align="center"><img src="assets/w20-preview.webp" width="800" alt="左是原片的一帧，竹林和湿石板路。右是成片的一帧，同一段被重绘成粘土定格动画的质感。被编辑的原片也是由 Beatra AI 生成。"></p>
+
+[▶ 观看完整视频（MP4）](assets/w20.mp4)
+
+*左是原片的一帧，竹林和湿石板路。右是成片的一帧，同一段被重绘成粘土定格动画的质感。被编辑的原片也是由 Beatra AI 生成。*
+
+在你的 Agent 里这样说：
+
+```text
+用 Wan 3.0 Video 把这段竹林片子重绘成粘土定格动画的质感。竹林、湿石板路和缓慢向前的镜头保持不变。
+```
+
+提示词：
+
+```text
+Repaint this shot as clay stop-motion. Keep the bamboo grove, the wet stone path, and the slow forward camera. Visible clay texture and fingerprints on the stalks and stones. No people, no readable text, no logos.
+```
+
+Wan 3.0 Video · 视频编辑 · 720p · 16:9 · 5s
+
+在 Beatra 上生成 · 任务 task_mcp_0b83031c5911be94eed4408160a82d4636fde04a, task_mcp_d09dd996bc8a0a80f4d53a4bbc626a2ad51411d1
+
 <a id="video-extend"></a>
 
 ## 视频延长
 
-### 9. 片段之后烛芯点着
+### 15. 片段之后烛芯点着
 
 未点燃的蜡烛接到一根点着的烛芯，展示 Wan 3.0 Video 在片段之后补上画面。
 
@@ -290,7 +450,7 @@ Wan 3.0 Video · 视频延长 · 720p · 16:9 · 5s
 
 在 Beatra 上生成 · 任务 task_mcp_a869a7eb9616f0bb898e78c09d749e71e6cd80de
 
-### 10. 镜头从蜡烛往后拉
+### 16. 镜头从蜡烛往后拉
 
 镜头从同一只蜡烛拉远，展示 Wan 3.0 Video 对同一段片子再做一次延长。
 
@@ -320,7 +480,7 @@ Wan 3.0 Video · 视频延长 · 720p · 16:9 · 5s
 
 ## 参考图生视频
 
-### 11. 帆布鞋和托特包的短片
+### 17. 帆布鞋和托特包的短片
 
 一段目录式移动镜头，展示 Wan 3.0 Video 用帆布鞋和托特包两张参考图做出短片。
 
@@ -346,7 +506,7 @@ Wan 3.0 Video · 参考生视频 · 720p · 16:9 · 3s
 
 在 Beatra 上生成 · 任务 task_mcp_624760781be03b029dcdc2fcf9bc52cdd0f9959e
 
-### 12. 雨衣狐狸在面包店外
+### 18. 雨衣狐狸在面包店外
 
 雨衣狐狸站在面包店前，展示 Wan 3.0 Video 跟着两张插画参考走。
 
@@ -376,7 +536,7 @@ Wan 3.0 Video · 参考生视频 · 720p · 16:9 · 3s
 
 ## 环境音
 
-### 13. 小屋前的雪和烟
+### 19. 小屋前的雪和烟
 
 雪和烟囱的烟，是一段 Wan 3.0 Video 的小屋镜头。成片带声音。
 
@@ -402,7 +562,7 @@ Wan 3.0 Video · 图生视频 · 720p · 16:9 · 5s
 
 在 Beatra 上生成 · 任务 task_mcp_38a287641ce61bf1d0ab5fe2892aab3f86ba3643, task_mcp_4164f98cbccff4bdb8588c227998756a9f3d8423
 
-### 14. 面包店台阶上的雨
+### 20. 面包店台阶上的雨
 
 面包店台阶上的雨，是一段 Wan 3.0 Video 的片子。成片带声音。
 

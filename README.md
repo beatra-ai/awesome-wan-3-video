@@ -76,11 +76,63 @@ Wan 3.0 Video · Text to video · 720p · 16:9 · 4s
 
 Generated on Beatra · task task_mcp_dbace868ff0952ccc9a70df10b209a5438f5de89
 
+### 3. Dolly through a misty bamboo grove
+
+A dolly along a misty bamboo path shows Wan 3.0 Video moving the camera forward.
+
+<p align="center"><img src="assets/w15-preview.webp" width="800" alt="A wet stone path runs through tall bamboo in pale mist, and the camera moves forward. AI-generated with Beatra."></p>
+
+[▶ Watch the full video (MP4)](assets/w15.mp4)
+
+*A wet stone path runs through tall bamboo in pale mist, and the camera moves forward. AI-generated with Beatra.*
+
+Ask your agent:
+
+```text
+Use Wan 3.0 Video to make a slow dolly forward along a wet stone path in a misty bamboo grove at dawn. No people and no text.
+```
+
+Prompt:
+
+```text
+Cinematic morning in a fictional bamboo grove. Dense tall bamboo, pale mist drifting between the stalks, a wet stone path, slow steady dolly forward along the path. Soft dawn light, no people, no readable text, no logos, no watermark. Subtle ambient sound of dripping water and distant birds.
+```
+
+Wan 3.0 Video · Text to video · 720p · 16:9 · 5s
+
+Generated on Beatra · task task_mcp_0b83031c5911be94eed4408160a82d4636fde04a
+
+### 4. Low angle on a night-stall wok
+
+A low-angle shot of a night-stall wok shows steam and flame in a Wan 3.0 Video clip.
+
+<p align="center"><img src="assets/w16-preview.webp" width="800" alt="A low-angle iron wok sits over a gas flame, with steam rising under lantern light. AI-generated with Beatra."></p>
+
+[▶ Watch the full video (MP4)](assets/w16.mp4)
+
+*A low-angle iron wok sits over a gas flame, with steam rising under lantern light. AI-generated with Beatra.*
+
+Ask your agent:
+
+```text
+Use Wan 3.0 Video to make a handheld low-angle shot of an iron wok over a gas flame at a night stall, with steam rising and lantern light.
+```
+
+Prompt:
+
+```text
+Handheld low-angle shot at a fictional night stall. A wide iron wok sits over a gas flame, thick steam and oil mist rising toward the camera, warm lantern light, wooden stall counter. No people, no faces, no hands, no readable signs, no letters, no logos, no watermark. Soundtrack of sizzle and soft night-market murmur, no speech.
+```
+
+Wan 3.0 Video · Text to video · 720p · 16:9 · 5s
+
+Generated on Beatra · task task_mcp_f7de08036b16d5059c82dc3bcebfcbd51fdcbb0c
+
 <a id="product-i2v"></a>
 
 ## Product clips from a photo
 
-### 3. Push-in on the Siltjar bottle
+### 5. Push-in on the Siltjar bottle
 
 A slow push-in shows Wan 3.0 Video animating the SILTJAR bottle from one opening photo.
 
@@ -106,7 +158,7 @@ Wan 3.0 Video · Image to video · 720p · 1:1 · 4s
 
 Generated on Beatra · task task_mcp_ef9245dcc190be76719d6d88778ad26b9105f91a
 
-### 4. Orbit around a brass candle
+### 6. Orbit around a brass candle
 
 An orbit of a brass candle tin shows Wan 3.0 Video animating one product photo.
 
@@ -132,11 +184,63 @@ Wan 3.0 Video · Image to video · 720p · 4:3 · 4s
 
 Generated on Beatra · task task_mcp_988a9e1161b17e8d923dfe7bdf547e0d26ea97e3
 
+### 7. Push-in on the SOLUM bottle
+
+A slow push-in shows Wan 3.0 Video animating the SOLUM bottle from one opening photo.
+
+<p align="center"><img src="assets/w17-preview.webp" width="800" alt="The camera moves slowly toward the SOLUM bottle while the water ripples. The opening photo is also AI-generated with Beatra."></p>
+
+[▶ Watch the full video (MP4)](assets/w17.mp4)
+
+*The camera moves slowly toward the SOLUM bottle while the water ripples. The opening photo is also AI-generated with Beatra.*
+
+Ask your agent:
+
+```text
+Use Wan 3.0 Video to animate the SOLUM bottle photo with a slow push-in. Keep the bottle, the white pump, and the SOLUM label still, and let the water ripple.
+```
+
+Prompt:
+
+```text
+Slow push-in on the frosted-glass serum bottle. The bottle, white pump, and SOLUM label stay still and keep their shape. Gentle ripples move in the water around the base. Soft beauty light. No new text, no hands, no logos.
+```
+
+Wan 3.0 Video · Image to video · 720p · 16:9 · 5s
+
+Generated on Beatra · task task_mcp_747899488daf1c608e01a3103a86f767cebd0a01, task_mcp_894f444a5ed34962098546e9a34cfc0b801d9b76
+
+### 8. Orbit around sage headphones
+
+A slow orbit shows Wan 3.0 Video animating the sage headphones from one opening photo.
+
+<p align="center"><img src="assets/w18-preview.webp" width="800" alt="The camera orbits the sage headphones on the limestone slab. The opening photo is also AI-generated with Beatra."></p>
+
+[▶ Watch the full video (MP4)](assets/w18.mp4)
+
+*The camera orbits the sage headphones on the limestone slab. The opening photo is also AI-generated with Beatra.*
+
+Ask your agent:
+
+```text
+Use Wan 3.0 Video to animate the sage headphone photo with a slow orbit. Keep the cups, the headband, and the suede pads the same shape.
+```
+
+Prompt:
+
+```text
+Slow gentle orbit around the sage over-ear headphones on the limestone slab. The cups, headband, and suede pads keep their shape. Soft studio light. No text, no people, no hands, no logos.
+```
+
+Wan 3.0 Video · Image to video · 720p · 16:9 · 5s
+
+Generated on Beatra · task task_mcp_30b180b44416554aedc800ae7ea54ded5091b344, task_mcp_769d854eae895afbf4a0127ff02c2c5984a1df29
+
 <a id="first-last-frames"></a>
 
 ## First and last frames
 
-### 5. Tote from room to rainy door
+### 9. Tote from room to rainy door
 
 The same tote travels from a bright room to a rainy doorway, showing Wan 3.0 Video bridging two frames.
 
@@ -166,7 +270,7 @@ Wan 3.0 Video · First and last frames to video · 720p · 3:4 · 4s
 
 Generated on Beatra · task task_mcp_0a09065cc402d1095c39f1dd2e55c27c9d2c992b
 
-### 6. Fox walks to the bakery
+### 10. Fox walks to the bakery
 
 A fox in a yellow coat walks from a mushroom to a bakery, showing Wan 3.0 Video bridging two frames.
 
@@ -196,11 +300,37 @@ Wan 3.0 Video · First and last frames to video · 720p · 1:1 · 4s
 
 Generated on Beatra · task task_mcp_fff02ba9a872ad57f1ce5244c80e73fa59f4aa0a
 
+### 11. Lane from summer noon to evening
+
+The same lane moves from summer noon toward evening, showing Wan 3.0 Video bridging two frames. The clip ends with less snow than the evening photo used as the last frame.
+
+<p align="center"><img src="assets/w19-preview.webp" width="800" alt="The lane goes from a bright summer noon to evening, with windows and a street lamp lit. The ending has less snow than the evening photo used as the last frame. The first and last frames are also AI-generated with Beatra."></p>
+
+[▶ Watch the full video (MP4)](assets/w19.mp4)
+
+*The lane goes from a bright summer noon to evening, with windows and a street lamp lit. The ending has less snow than the evening photo used as the last frame. The first and last frames are also AI-generated with Beatra.*
+
+Ask your agent:
+
+```text
+Use Wan 3.0 Video with the summer-noon lane as the first frame and the evening lane as the last. Keep the buildings, shutters, doors, and bicycle in place.
+```
+
+Prompt:
+
+```text
+The cobblestone lane changes from bright summer noon to a snowy evening. Buildings, shutters, doors, and the bicycle stay in place. Light snow begins to fall. No people, no cars, no readable text, no logos.
+```
+
+Wan 3.0 Video · First and last frames to video · 720p · 16:9 · 5s
+
+Generated on Beatra · task task_mcp_7b7da46f37b24ab2619dc76ac34abddffdd2abc7, task_mcp_a36f684023317a21916a2df525593b22e69b611c, task_mcp_dffd403279fad7006f39d5e1889472473ef09da6
+
 <a id="video-edit"></a>
 
 ## Video edits and restyles
 
-### 7. Candle table becomes green tile
+### 12. Candle table becomes green tile
 
 The oak table becomes green tile while the candle stays, showing Wan 3.0 Video editing a clip.
 
@@ -230,7 +360,7 @@ Wan 3.0 Video · Video editing · 720p · 16:9 · 5s
 
 Generated on Beatra · task task_mcp_74e663e18496ceda5d0af892f727d96a169765f5
 
-### 8. Candle clip repainted as gouache
+### 13. Candle clip repainted as gouache
 
 The same candle clip is repainted as gouache, showing Wan 3.0 Video restyling a video.
 
@@ -260,11 +390,41 @@ Wan 3.0 Video · Video editing · 720p · 16:9 · 5s
 
 Generated on Beatra · task task_mcp_f128b0fbaaeeb9efa301aa9a8fa3992f03b13409
 
+### 14. Bamboo path recast as clay stop-motion
+
+The bamboo path is recast as clay stop-motion, showing Wan 3.0 Video restyling the clip.
+
+<p align="center"><img src="assets/w20-frames.webp" width="800" alt="Left: a frame of the source clip, a bamboo grove and a wet stone path. Right: a frame of the clip recast as clay stop-motion. The source clip is also AI-generated with Beatra."></p>
+
+*Left: a frame of the source clip, a bamboo grove and a wet stone path. Right: a frame of the clip recast as clay stop-motion. The source clip is also AI-generated with Beatra.*
+
+<p align="center"><img src="assets/w20-preview.webp" width="800" alt="Left: a frame of the source clip, a bamboo grove and a wet stone path. Right: a frame of the clip recast as clay stop-motion. The source clip is also AI-generated with Beatra."></p>
+
+[▶ Watch the full video (MP4)](assets/w20.mp4)
+
+*Left: a frame of the source clip, a bamboo grove and a wet stone path. Right: a frame of the clip recast as clay stop-motion. The source clip is also AI-generated with Beatra.*
+
+Ask your agent:
+
+```text
+Use Wan 3.0 Video to restyle the bamboo-grove clip as clay stop-motion. Keep the grove, the wet stone path, and the slow forward camera.
+```
+
+Prompt:
+
+```text
+Repaint this shot as clay stop-motion. Keep the bamboo grove, the wet stone path, and the slow forward camera. Visible clay texture and fingerprints on the stalks and stones. No people, no readable text, no logos.
+```
+
+Wan 3.0 Video · Video editing · 720p · 16:9 · 5s
+
+Generated on Beatra · task task_mcp_0b83031c5911be94eed4408160a82d4636fde04a, task_mcp_d09dd996bc8a0a80f4d53a4bbc626a2ad51411d1
+
 <a id="video-extend"></a>
 
 ## Longer clips
 
-### 9. The wick lights after the clip
+### 15. The wick lights after the clip
 
 The unlit candle continues into a lit wick, showing Wan 3.0 Video adding footage after a clip.
 
@@ -290,7 +450,7 @@ Wan 3.0 Video · Video extension · 720p · 16:9 · 5s
 
 Generated on Beatra · task task_mcp_a869a7eb9616f0bb898e78c09d749e71e6cd80de
 
-### 10. Camera pulls back from the candle
+### 16. Camera pulls back from the candle
 
 The camera pulls back from the same candle, showing a second Wan 3.0 Video extension after one clip.
 
@@ -320,7 +480,7 @@ Generated on Beatra · task task_mcp_6175a68010f69abddaa776f1d343fb135a1d8d91
 
 ## Clips from reference images
 
-### 11. Sneakers and a tote, one clip
+### 17. Sneakers and a tote, one clip
 
 A catalog move shows Wan 3.0 Video building a clip from the sneaker and tote reference photos.
 
@@ -346,7 +506,7 @@ Wan 3.0 Video · Reference to video · 720p · 16:9 · 3s
 
 Generated on Beatra · task task_mcp_624760781be03b029dcdc2fcf9bc52cdd0f9959e
 
-### 12. Raincoat fox outside the bakery
+### 18. Raincoat fox outside the bakery
 
 The raincoat fox stands at the bakery, showing Wan 3.0 Video following two illustration references.
 
@@ -376,7 +536,7 @@ Generated on Beatra · task task_mcp_ca240b90f5508336024a11c8fd8226cdd4581f22
 
 ## Ambient sound
 
-### 13. Snow and smoke at a cabin
+### 19. Snow and smoke at a cabin
 
 Snow and chimney smoke show a Wan 3.0 Video cabin shot. The finished clip has sound.
 
@@ -402,7 +562,7 @@ Wan 3.0 Video · Image to video · 720p · 16:9 · 5s
 
 Generated on Beatra · task task_mcp_38a287641ce61bf1d0ab5fe2892aab3f86ba3643, task_mcp_4164f98cbccff4bdb8588c227998756a9f3d8423
 
-### 14. Rain on a bakery step
+### 20. Rain on a bakery step
 
 Rain on a bakery step shows a Wan 3.0 Video clip. The finished clip has sound.
 

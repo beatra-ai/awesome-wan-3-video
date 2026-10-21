@@ -76,11 +76,63 @@ Wan 3.0 Video · テキストから動画 · 720p · 16:9 · 4s
 
 Beatra で生成 · タスク task_mcp_dbace868ff0952ccc9a70df10b209a5438f5de89
 
+### 3. 霧の竹林を前へ進むドリー
+
+霧の竹林の道を前へ進むドリーで、Wan 3.0 Video がカメラを前に動かしています。
+
+<p align="center"><img src="assets/w15-preview.webp" width="800" alt="濡れた石の道が、高い竹と薄い霧の中を通っています。カメラは前へ動いています。Beatra AI で生成しています。"></p>
+
+[▶ フル動画を見る（MP4）](assets/w15.mp4)
+
+*濡れた石の道が、高い竹と薄い霧の中を通っています。カメラは前へ動いています。Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Wan 3.0 Video で、夜明けの霧の竹林を。濡れた石の道を、カメラがゆっくり前へ。人も文字もなし。
+```
+
+プロンプト：
+
+```text
+Cinematic morning in a fictional bamboo grove. Dense tall bamboo, pale mist drifting between the stalks, a wet stone path, slow steady dolly forward along the path. Soft dawn light, no people, no readable text, no logos, no watermark. Subtle ambient sound of dripping water and distant birds.
+```
+
+Wan 3.0 Video · テキストから動画 · 720p · 16:9 · 5s
+
+Beatra で生成 · タスク task_mcp_0b83031c5911be94eed4408160a82d4636fde04a
+
+### 4. ローアングルで見る夜店の鉄鍋
+
+夜店の鉄鍋を低い角度から見た、Wan 3.0 Video の映像です。湯気と炎があります。
+
+<p align="center"><img src="assets/w16-preview.webp" width="800" alt="低い角度の鉄鍋がガスの炎の上にあり、湯気が上がっています。提灯の光があります。Beatra AI で生成しています。"></p>
+
+[▶ フル動画を見る（MP4）](assets/w16.mp4)
+
+*低い角度の鉄鍋がガスの炎の上にあり、湯気が上がっています。提灯の光があります。Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Wan 3.0 Video で、夜店の鉄鍋を手持ちの低い角度で。ガスの炎の上、湯気が上がる、提灯の光。
+```
+
+プロンプト：
+
+```text
+Handheld low-angle shot at a fictional night stall. A wide iron wok sits over a gas flame, thick steam and oil mist rising toward the camera, warm lantern light, wooden stall counter. No people, no faces, no hands, no readable signs, no letters, no logos, no watermark. Soundtrack of sizzle and soft night-market murmur, no speech.
+```
+
+Wan 3.0 Video · テキストから動画 · 720p · 16:9 · 5s
+
+Beatra で生成 · タスク task_mcp_f7de08036b16d5059c82dc3bcebfcbd51fdcbb0c
+
 <a id="product-i2v"></a>
 
 ## 商品写真からの動画
 
-### 3. Siltjar の瓶に寄る
+### 5. Siltjar の瓶に寄る
 
 瓶へのゆっくりした寄りで、Wan 3.0 Video が一枚の開始写真から SILTJAR の瓶を動かしています。
 
@@ -106,7 +158,7 @@ Wan 3.0 Video · 画像から動画 · 720p · 1:1 · 4s
 
 Beatra で生成 · タスク task_mcp_ef9245dcc190be76719d6d88778ad26b9105f91a
 
-### 4. 真鍮キャンドルの周回
+### 6. 真鍮キャンドルの周回
 
 真鍮のキャンドル缶を回るカメラで、Wan 3.0 Video が一枚の商品写真を動かしています。
 
@@ -132,11 +184,63 @@ Wan 3.0 Video · 画像から動画 · 720p · 4:3 · 4s
 
 Beatra で生成 · タスク task_mcp_988a9e1161b17e8d923dfe7bdf547e0d26ea97e3
 
+### 7. SOLUM の瓶に寄る
+
+瓶へのゆっくりした寄りで、Wan 3.0 Video が一枚の開始写真から SOLUM の瓶を動かしています。
+
+<p align="center"><img src="assets/w17-preview.webp" width="800" alt="カメラが SOLUM の瓶へゆっくり近づき、周りの水面に波紋があります。開始写真も Beatra AI で生成しています。"></p>
+
+[▶ フル動画を見る（MP4）](assets/w17.mp4)
+
+*カメラが SOLUM の瓶へゆっくり近づき、周りの水面に波紋があります。開始写真も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Wan 3.0 Video でこの SOLUM の瓶の写真を、ゆっくり寄る動きにして。瓶、白いポンプ、SOLUM のラベルは止めたまま。周りの水面に波紋を。
+```
+
+プロンプト：
+
+```text
+Slow push-in on the frosted-glass serum bottle. The bottle, white pump, and SOLUM label stay still and keep their shape. Gentle ripples move in the water around the base. Soft beauty light. No new text, no hands, no logos.
+```
+
+Wan 3.0 Video · 画像から動画 · 720p · 16:9 · 5s
+
+Beatra で生成 · タスク task_mcp_747899488daf1c608e01a3103a86f767cebd0a01, task_mcp_894f444a5ed34962098546e9a34cfc0b801d9b76
+
+### 8. セージグリーンのヘッドホンの周回
+
+ゆっくり回るカメラで、Wan 3.0 Video が一枚の開始写真からセージグリーンのヘッドホンを動かしています。
+
+<p align="center"><img src="assets/w18-preview.webp" width="800" alt="カメラが石灰岩の上のセージグリーンのヘッドホンの周りを回ります。開始写真も Beatra AI で生成しています。"></p>
+
+[▶ フル動画を見る（MP4）](assets/w18.mp4)
+
+*カメラが石灰岩の上のセージグリーンのヘッドホンの周りを回ります。開始写真も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Wan 3.0 Video でこのセージグリーンのヘッドホンの写真を、ゆっくり回る動きにして。カップ、ヘッドバンド、スエードのパッドの形はそのまま。
+```
+
+プロンプト：
+
+```text
+Slow gentle orbit around the sage over-ear headphones on the limestone slab. The cups, headband, and suede pads keep their shape. Soft studio light. No text, no people, no hands, no logos.
+```
+
+Wan 3.0 Video · 画像から動画 · 720p · 16:9 · 5s
+
+Beatra で生成 · タスク task_mcp_30b180b44416554aedc800ae7ea54ded5091b344, task_mcp_769d854eae895afbf4a0127ff02c2c5984a1df29
+
 <a id="first-last-frames"></a>
 
 ## 最初と最後のフレーム
 
-### 5. トートが室内から雨の入口へ
+### 9. トートが室内から雨の入口へ
 
 同じトートが明るい部屋から雨の入口へ移り、Wan 3.0 Video が二つのフレームをつないでいます。
 
@@ -166,7 +270,7 @@ Wan 3.0 Video · 最初と最後のフレームから動画 · 720p · 3:4 · 4s
 
 Beatra で生成 · タスク task_mcp_0a09065cc402d1095c39f1dd2e55c27c9d2c992b
 
-### 6. 狐がベーカリーまで歩く
+### 10. 狐がベーカリーまで歩く
 
 黄色いコートの狐がキノコからベーカリーまで歩き、Wan 3.0 Video が二つのフレームをつないでいます。
 
@@ -196,11 +300,37 @@ Wan 3.0 Video · 最初と最後のフレームから動画 · 720p · 1:1 · 4s
 
 Beatra で生成 · タスク task_mcp_fff02ba9a872ad57f1ce5244c80e73fa59f4aa0a
 
+### 11. 路地が夏の昼から夕方へ
+
+同じ路地が夏の昼から夕方へ移り、Wan 3.0 Video が二つのフレームをつないでいます。映像の終わりの雪は、最後のフレームにした夕方の写真より少ないです。
+
+<p align="center"><img src="assets/w19-preview.webp" width="800" alt="路地が明るい夏の昼から夕方になり、窓と街灯が灯っています。映像の終わりの雪は、最後のフレームにした夕方の写真より少ないです。最初と最後のフレームも Beatra AI で生成しています。"></p>
+
+[▶ フル動画を見る（MP4）](assets/w19.mp4)
+
+*路地が明るい夏の昼から夕方になり、窓と街灯が灯っています。映像の終わりの雪は、最後のフレームにした夕方の写真より少ないです。最初と最後のフレームも Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Wan 3.0 Video で、最初のフレームは夏の昼の路地、最後のフレームは夕方の路地。建物、鎧戸、扉、自転車は元の位置のまま。
+```
+
+プロンプト：
+
+```text
+The cobblestone lane changes from bright summer noon to a snowy evening. Buildings, shutters, doors, and the bicycle stay in place. Light snow begins to fall. No people, no cars, no readable text, no logos.
+```
+
+Wan 3.0 Video · 最初と最後のフレームから動画 · 720p · 16:9 · 5s
+
+Beatra で生成 · タスク task_mcp_7b7da46f37b24ab2619dc76ac34abddffdd2abc7, task_mcp_a36f684023317a21916a2df525593b22e69b611c, task_mcp_dffd403279fad7006f39d5e1889472473ef09da6
+
 <a id="video-edit"></a>
 
 ## 動画の編集と描き直し
 
-### 7. 卓が緑のタイルに
+### 12. 卓が緑のタイルに
 
 オークの卓が緑のタイルになり、キャンドルは残り、Wan 3.0 Video が映像を編集しています。
 
@@ -230,7 +360,7 @@ Wan 3.0 Video · 動画編集 · 720p · 16:9 · 5s
 
 Beatra で生成 · タスク task_mcp_74e663e18496ceda5d0af892f727d96a169765f5
 
-### 8. 同じキャンドルをガッシュに
+### 13. 同じキャンドルをガッシュに
 
 同じキャンドルの映像がガッシュに描き直され、Wan 3.0 Video が動画のスタイルを変えています。
 
@@ -260,11 +390,41 @@ Wan 3.0 Video · 動画編集 · 720p · 16:9 · 5s
 
 Beatra で生成 · タスク task_mcp_f128b0fbaaeeb9efa301aa9a8fa3992f03b13409
 
+### 14. 竹の道を粘土のコマ撮りに
+
+竹の道が粘土のコマ撮りの質感に描き直され、Wan 3.0 Video がこの映像のスタイルを変えています。
+
+<p align="center"><img src="assets/w20-frames.webp" width="800" alt="左は元の映像の一フレームで、竹林と濡れた石の道です。右は完成した映像の一フレームで、同じショットが粘土のコマ撮りの質感に描き直されています。編集前の映像も Beatra AI で生成しています。"></p>
+
+*左は元の映像の一フレームで、竹林と濡れた石の道です。右は完成した映像の一フレームで、同じショットが粘土のコマ撮りの質感に描き直されています。編集前の映像も Beatra AI で生成しています。*
+
+<p align="center"><img src="assets/w20-preview.webp" width="800" alt="左は元の映像の一フレームで、竹林と濡れた石の道です。右は完成した映像の一フレームで、同じショットが粘土のコマ撮りの質感に描き直されています。編集前の映像も Beatra AI で生成しています。"></p>
+
+[▶ フル動画を見る（MP4）](assets/w20.mp4)
+
+*左は元の映像の一フレームで、竹林と濡れた石の道です。右は完成した映像の一フレームで、同じショットが粘土のコマ撮りの質感に描き直されています。編集前の映像も Beatra AI で生成しています。*
+
+エージェントへの依頼例：
+
+```text
+Wan 3.0 Video でこの竹林の映像を、粘土のコマ撮りの質感に描き直して。竹林、濡れた石の道、ゆっくり前へ進むカメラはそのまま。
+```
+
+プロンプト：
+
+```text
+Repaint this shot as clay stop-motion. Keep the bamboo grove, the wet stone path, and the slow forward camera. Visible clay texture and fingerprints on the stalks and stones. No people, no readable text, no logos.
+```
+
+Wan 3.0 Video · 動画編集 · 720p · 16:9 · 5s
+
+Beatra で生成 · タスク task_mcp_0b83031c5911be94eed4408160a82d4636fde04a, task_mcp_d09dd996bc8a0a80f4d53a4bbc626a2ad51411d1
+
 <a id="video-extend"></a>
 
 ## 動画の延長
 
-### 9. 映像のあとで芯に火
+### 15. 映像のあとで芯に火
 
 火のついていないキャンドルが灯った芯へ続き、Wan 3.0 Video が映像のあとに画面を足しています。
 
@@ -290,7 +450,7 @@ Wan 3.0 Video · 動画の延長 · 720p · 16:9 · 5s
 
 Beatra で生成 · タスク task_mcp_a869a7eb9616f0bb898e78c09d749e71e6cd80de
 
-### 10. キャンドルからカメラが引く
+### 16. キャンドルからカメラが引く
 
 同じキャンドルからカメラが引き、Wan 3.0 Video が同じ映像をもう一度延長しています。
 
@@ -320,7 +480,7 @@ Beatra で生成 · タスク task_mcp_6175a68010f69abddaa776f1d343fb135a1d8d91
 
 ## 参照画像からの動画
 
-### 11. スニーカーとトートの短い映像
+### 17. スニーカーとトートの短い映像
 
 カタログ風の移動で、Wan 3.0 Video がスニーカーとトートの参照写真から短い映像を作っています。
 
@@ -346,7 +506,7 @@ Wan 3.0 Video · 参照素材から動画 · 720p · 16:9 · 3s
 
 Beatra で生成 · タスク task_mcp_624760781be03b029dcdc2fcf9bc52cdd0f9959e
 
-### 12. ベーカリーの前のレインコートの狐
+### 18. ベーカリーの前のレインコートの狐
 
 レインコートの狐がベーカリーの前に立ち、Wan 3.0 Video が二枚の挿絵の参照に沿っています。
 
@@ -376,7 +536,7 @@ Beatra で生成 · タスク task_mcp_ca240b90f5508336024a11c8fd8226cdd4581f22
 
 ## 環境音
 
-### 13. 小屋の雪と煙
+### 19. 小屋の雪と煙
 
 雪と煙突の煙がある、Wan 3.0 Video の小屋のショットです。完成した映像には音が入っています。
 
@@ -402,7 +562,7 @@ Wan 3.0 Video · 画像から動画 · 720p · 16:9 · 5s
 
 Beatra で生成 · タスク task_mcp_38a287641ce61bf1d0ab5fe2892aab3f86ba3643, task_mcp_4164f98cbccff4bdb8588c227998756a9f3d8423
 
-### 14. ベーカリーの段に降る雨
+### 20. ベーカリーの段に降る雨
 
 ベーカリーの段に降る雨の、Wan 3.0 Video の映像です。完成した映像には音が入っています。
 
